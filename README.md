@@ -32,5 +32,5 @@ Here I showcase projects focused on data analysis, visualization, and business i
 Aspiring Data & Business Analyst passionate about turning data into actionable insights and supporting data-driven decisions.
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your link)
-- YouTube: LearnWithSpidey (Power BI Tutorials)
+- LinkedIn: https://www.linkedin.com/in/yashwanth-eluri--analyst/
+- YouTube: LearnWithSpidey (Power BI Tutorials) [ https://youtube.com/@learnwithspidey?si=dZsWio2DbN_lzq38 ]
